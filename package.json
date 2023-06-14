@@ -5,6 +5,7 @@
   "main": "controller.js",
   "scripts": {
     "start": "nodemon -e js",
+    "start-server": "node controller.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mxconnect team",
